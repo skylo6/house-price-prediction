@@ -1,0 +1,16 @@
+size,bedrooms,bathrooms,location,price
+50,1,1,Nairobi,3500000
+60,2,1,Nairobi,4500000
+70,2,1,Kiambu,4200000
+80,2,2,Nairobi,6000000
+90,3,2,Kiambu,6500000
+100,3,2,Nairobi,8000000
+110,3,2,Thika,7000000
+120,4,2,Nairobi,10000000
+130,4,3,Kiambu,9500000
+140,4,3,Nairobi,12000000
+150,4,3,Thika,10000000
+160,5,3,Nairobi,14000000
+170,5,3,Kiambu,12500000
+180,5,4,Nairobi,16000000
+200,5,4,Nairobi,18000000
